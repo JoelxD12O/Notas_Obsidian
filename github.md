@@ -9,7 +9,7 @@ cd: movernos entre carpetas
 mkdir (nombre de carpeta): crear carpeta
 
 explorer .     : abrir el explorador  
-
+2
 
 cd  : si escribes solo te mando a la users
 
@@ -34,16 +34,10 @@ git commit -m "agregando todos mis archivos"
 git origin origin master
 
 
-Tarea :
-
-1-en la carpeta que creaste en el escritorio, agrega uno de tus proyectos de la universidad y subelo a github, agrega el Readme.md y pon contexto de que trata el proyecto
-
-
 personalizar tu terminal:
 https://www.youtube.com/watch?v=6SGIFVJ5Izs
 
 personalizar tu visual estudio code: 
-
 https://www.youtube.com/watch?v=HiVnGgYudLY
 
 QUE ES GITHUB(con ella aprendi github xd)

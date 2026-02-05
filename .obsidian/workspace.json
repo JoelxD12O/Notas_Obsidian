@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github.md",
+                "file": "Ingles/Palabras nuevas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github"
+              "title": "Palabras nuevas"
             }
           }
         ],
@@ -214,14 +214,16 @@
   },
   "active": "83edb4d37092b81f",
   "lastOpenFiles": [
-    "PENDIENTES/TAREITAS.md",
-    "Ingles/La Hora en Britanico.md",
     "Ingles/Uso de Do - Does en presente simple.md",
+    "Ingles/Palabras nuevas.md",
+    "Ingles/🧾 Pedir cosas educadamente en un restaurante (English).md",
+    "Ingles/La Hora en Britanico.md",
+    "github.md",
+    "PENDIENTES/TAREITAS.md",
     "obsidian/sintaxis.md",
     "obsidian",
     "cyberseguridad/CLASE 1 - 06_01_2026.md",
     "2026-0/Metodos numericos/proyecto.md",
-    "github.md",
     "2025-II/Cloud Computing/aws/paso 1.md",
     "2025-II/Algoritmo y Estructura de Datos/sesion 1.md",
     "2025-II/Algoritmo y Estructura de Datos/sesion 2.md",
@@ -257,8 +259,6 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "liravet/semana 1.md",
-    "Algoritmo y Estructura de Datos/sesion 1.md",
-    "cyberseguridad/clase 2.md",
-    "cyberseguridad/clase 1.md"
+    "Algoritmo y Estructura de Datos/sesion 1.md"
   ]
 }
