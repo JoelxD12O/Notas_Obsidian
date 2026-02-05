@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "61e796597ac2803d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5d07c44c10c4126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bf2c3c521989c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PENDIENTES/TAREITAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TAREITAS"
+            }
+          },
+          {
+            "id": "6321da7d41a02974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "liravet/semana 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "semana 1"
+            }
+          },
+          {
+            "id": "ab19477fde4bcf8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-0/Metodos numericos/proyecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "proyecto"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "186f26dda1a60966",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d83dac38f005138",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70731d48b6c8caa0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c890573fee1c3eae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "xxd",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e972745c012217ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5512f0609657b63a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ba54c26188b186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de85925facb2ee21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ingles/Clase 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Clase 1"
+            }
+          },
+          {
+            "id": "cdb78690265cb0cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maftech.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Maftech"
+            }
+          },
+          {
+            "id": "d7a9ea98df4c83a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d9bffdc8a4246904",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maftech.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Maftech"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "70731d48b6c8caa0",
+  "lastOpenFiles": [
+    "github.md",
+    "2025-II/Cloud Computing/aws/paso 1.md",
+    "2025-II/Algoritmo y Estructura de Datos/sesion 1.md",
+    "2025-II/Algoritmo y Estructura de Datos/sesion 2.md",
+    "Imagenes/Imagen_de_WhatsApp_2025-08-20_a_las_18.30.39_da1c2fdd.jpg",
+    "2025-II/Cloud Computing/sesion 1.md",
+    "2025-II/Cloud Computing/repaso- parcial.md",
+    "2025-II/Cloud Computing/sesion 2.md",
+    "Unispace/resumen.md",
+    "update_image_references.py",
+    "Imagenes/Pasted_image_20250929165637.jpg",
+    "Imagenes/Pasted_image_20250929165529.jpg",
+    "Imagenes/Pasted_image_20250821204444.jpg",
+    "Imagenes/Pasted_image_20250821204418.jpg",
+    "Imagenes/Pasted_image_20250821204018.jpg",
+    "Imagenes/Pasted_image_20250820192237.jpg",
+    "Imagenes/Pasted_image_20250820192221.jpg",
+    "Imagenes/Pasted_image_20250820191649.jpg",
+    "Imagenes/Pasted_image_20250820191648.jpg",
+    "compress_images.py",
+    "attachments/compressed",
+    "Imagenes",
+    "2026-0/Metodos numericos",
+    "2026-0",
+    "2025-II/Cloud Computing/aws",
+    "2025-II/aws/paso 1.md",
+    "2025-II/Arte y Tecnología/sesion 2.md",
+    "2025-II/Arte y Tecnología/el retorno del artista-ingeniero.md",
+    "2025-II/Arte y Tecnología/Badiu, Alain.md",
+    "2025-II/Arquitectura de computadoras/clase 1.md",
+    "2025-II/Cloud Computing",
+    "2025-II/aws",
+    "2025-II/Arte y Tecnología",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "liravet/semana 1.md",
+    "Algoritmo y Estructura de Datos/sesion 1.md",
+    "cyberseguridad/clase 2.md",
+    "cyberseguridad/clase 1.md",
+    "cyberseguridad/CLASE 1 - 06_01_2026.md",
+    "2026-0/Metodos numericos/proyecto.md",
+    "PENDIENTES/TAREITAS.md",
+    "aws/paso 1.md",
+    "Ingles/Clase 1.md"
+  ]
+}
