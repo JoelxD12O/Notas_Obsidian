@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingles/Palabras nuevas.md",
+                "file": "Ingles/A3/Proyecto/o.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Palabras nuevas"
+              "title": "o"
             }
           }
         ],
@@ -214,10 +214,14 @@
   },
   "active": "83edb4d37092b81f",
   "lastOpenFiles": [
-    "Ingles/Uso de Do - Does en presente simple.md",
-    "Ingles/Palabras nuevas.md",
-    "Ingles/🧾 Pedir cosas educadamente en un restaurante (English).md",
-    "Ingles/La Hora en Britanico.md",
+    "Ingles/A3/Notas/🧾 Pedir cosas educadamente en un restaurante (English).md",
+    "Ingles/A3/Proyecto/o.md",
+    "Ingles/A3",
+    "Ingles/A3/Notas",
+    "Ingles/A3/Proyecto",
+    "Ingles/A3/Notas/Palabras nuevas.md",
+    "Ingles/A3/Notas/Uso de Do - Does en presente simple.md",
+    "Ingles/A3/Notas/La Hora en Britanico.md",
     "github.md",
     "PENDIENTES/TAREITAS.md",
     "obsidian/sintaxis.md",
@@ -247,18 +251,14 @@
     "Imagenes",
     "2026-0/Metodos numericos",
     "2026-0",
-    "2025-II/Cloud Computing/aws",
     "2025-II/aws/paso 1.md",
     "2025-II/Arte y Tecnología/sesion 2.md",
     "2025-II/Arte y Tecnología/el retorno del artista-ingeniero.md",
     "2025-II/Arte y Tecnología/Badiu, Alain.md",
     "2025-II/Arquitectura de computadoras/clase 1.md",
-    "2025-II/Cloud Computing",
-    "2025-II/aws",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "liravet/semana 1.md",
-    "Algoritmo y Estructura de Datos/sesion 1.md"
+    "liravet/semana 1.md"
   ]
 }
