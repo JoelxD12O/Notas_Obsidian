@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingles/A3/Proyecto/o.md",
+                "file": "Linux/comandos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "o"
+              "title": "comandos"
             }
           }
         ],
@@ -214,8 +214,10 @@
   },
   "active": "83edb4d37092b81f",
   "lastOpenFiles": [
-    "Ingles/A3/Notas/🧾 Pedir cosas educadamente en un restaurante (English).md",
     "Ingles/A3/Proyecto/o.md",
+    "Linux/comandos.md",
+    "Linux",
+    "Ingles/A3/Notas/🧾 Pedir cosas educadamente en un restaurante (English).md",
     "Ingles/A3",
     "Ingles/A3/Notas",
     "Ingles/A3/Proyecto",
@@ -250,7 +252,6 @@
     "attachments/compressed",
     "Imagenes",
     "2026-0/Metodos numericos",
-    "2026-0",
     "2025-II/aws/paso 1.md",
     "2025-II/Arte y Tecnología/sesion 2.md",
     "2025-II/Arte y Tecnología/el retorno del artista-ingeniero.md",
@@ -258,7 +259,6 @@
     "2025-II/Arquitectura de computadoras/clase 1.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled 1.md",
-    "liravet/semana 1.md"
+    "Untitled 1.md"
   ]
 }
